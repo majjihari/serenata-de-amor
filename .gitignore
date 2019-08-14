@@ -1,6 +1,5 @@
 # development environment
 .coverage
-.env
 .floo
 *.sqlite3
 db/
@@ -25,3 +24,4 @@ staticfiles/
 
 # ansible stuff
 contrib/update/update.retry
+config.bat
